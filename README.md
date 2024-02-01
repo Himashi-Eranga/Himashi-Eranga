@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himashi-eranga&label=Profile%20views&color=0e75b6&style=flat" alt="himashi-eranga" /> </p>
-
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture><h2>About me</h2>
 
 - 🌱 I’m currently learning **java and MERN**
 
